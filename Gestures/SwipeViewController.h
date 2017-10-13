@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SwipeViewController.h
 //  Gestures
 //
 //  Created by Aaron Johnson on 2017-10-12.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SwipeViewController : UIViewController
 
 @end
-
